@@ -1,4 +1,6 @@
-# Superstore Sales Insights
+# Global Superstore Profitability & Strategic Analysis
+
+#### Turning 51,000+ International Transactions into a Strategic Growth Roadmap
 
 <img width="1125" height="978" alt="image" src="https://github.com/user-attachments/assets/4b1742a2-17e2-4284-abef-d2c5dd76255a" />
 
